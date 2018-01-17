@@ -1,0 +1,21 @@
+{
+  "name": "mongodb-geoip",
+  "version": "0.1.2",
+  "description": "Maxmind GeoIP DB in MongoDB",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "helmet": "^3.8.1",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.arcanes.re:wil/geoipdb.git"
+  },
+  "keywords": ["maxmind", "geoip", "mongodb"],
+  "author": "wil"
+}

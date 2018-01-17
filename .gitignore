@@ -1,0 +1,3 @@
+webserver/python_wsgi/uwsgi/*.log
+log/
+webersever/express/node_modules/

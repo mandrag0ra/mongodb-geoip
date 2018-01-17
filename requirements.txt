@@ -1,0 +1,2 @@
+netaddr==0.7.19
+pymongo==3.4.0
